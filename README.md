@@ -6,7 +6,7 @@
   <a href="https://www.youtube.com/channel/UC32-E-ktcmeznsHU01vlvRQ" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/youtube.svg" alt="YouTube" width="30" style="filter: invert(0%); margin-left: 10px;">
   </a>
-  <a href=https://soundcloud.com/flintheartbabi" target="_blank">
+  <a href="https://soundcloud.com/flintheartbabi" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/soundcloud.svg" alt="SoundCloud" width="30" style="filter: invert(0%); margin-left: 10px;">
   </a>
 </p>
