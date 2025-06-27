@@ -10,4 +10,4 @@
     <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/soundcloud.svg" alt="SoundCloud" width="30" style="filter: invert(0%); margin-left: 10px;">
   </a>
 </p>
-<a href="https://www.youtube.com/watch?v=hPjaxXfIJik" target="_blank" style="color: #0f6770;">sad beth ep</a>
+<a href="https://www.youtube.com/watch?v=hPjaxXfIJik" target="_blank" style="color: #8a134d;">sad beth ep</a>
