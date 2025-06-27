@@ -10,6 +10,9 @@
     <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/soundcloud.svg" alt="SoundCloud" width="30" style="filter: invert(0%); margin-left: 10px;">
   </a>
   <a href="https://x.com/flintheartbabi" target="_blank">
-    <img src="https://cdn4.iconfinder.com/data/icons/social-media-black-white-2/1227/X-1024.png" alt="SoundCloud" width="30" style="filter: invert(0%); margin-left: 10px;">
+    <img src="https://cdn4.iconfinder.com/data/icons/social-media-black-white-2/1227/X-1024.png" alt="SoundCloud" width="25" style="filter: invert(0%); margin-left: 10px;">
+  </a>
+  <a href="https://tiktok.com/@flintheartbabi" target="_blank">
+    <img src="https://cdn0.iconfinder.com/data/icons/font-awesome-brands-vol-2/512/tiktok-1024.png" width="25" style="filter: invert(0%); margin-left: 10px;">
 </p>
 <a href="https://www.youtube.com/watch?v=hPjaxXfIJik" target="_blank" style="color: #8a134d;">sad beth ep</a>
