@@ -1,2 +1,2 @@
 # flintheartbabi**
-[sad beth ep](https://www.youtube.com/watch?v=hPjaxXfIJik&pp=ygUMc2FkIGJldGggZXAg)
+<a href="https://www.youtube.com/watch?v=hPjaxXfIJik" style="color: red;">sad beth ep</a>
