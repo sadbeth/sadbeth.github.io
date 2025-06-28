@@ -30,12 +30,12 @@
   <p align="center">
   <a href="https://discord.gg/9X7jZrQ82D" target="_blank" style="color: #8a134d;">discord server</a>
 
+<p align="center">
   <details>
   <summary>art</summary>
   <p>real</p>
   <ul>
-    <li>[kidd icarus new art](https://github.com/user-attachments/assets/c06f90f9-f2e8-4430-a3db-23dd32f6be3a)
-</li>
+    <li>item 1</li>
     <li>Item 2</li>
   </ul>
 </details>
