@@ -32,10 +32,19 @@
 
 <p align="center">
   <details>
-  <summary>art</summary>
-  <p>real</p>
-  <ul>
-    <li>item 1</li>
-    <li>Item 2</li>
-  </ul>
-</details>
+    <summary style="cursor: pointer; font-weight: bold; color: #8a134d; text-align: center;">art</summary>
+    <div align="center">
+      <p>real</p>
+      <ul style="list-style: none; padding: 0;">
+        <li>
+          <a href="https://github.com/user-attachments/assets/c06f90f9-f2e8-4430-a3db-23dd32f6be3a" target="_blank">
+            <img src="https://github.com/user-attachments/assets/c06f90f9-f2e8-4430-a3db-23dd32f6be3a" alt="Kidd Icarus New Art" width="200" style="margin-top: 10px;">
+          </a>
+        </li>
+        <li>
+          <img src="https://github.com/user-attachments/assets/952bd4a8-0165-4d45-9f4d-be6d221cbfb0" alt="Item 2" width="200" style="margin-top: 10px;">
+        </li>
+      </ul>
+    </div>
+  </details>
+</p>
