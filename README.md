@@ -23,17 +23,18 @@
   </a>
 </p>
 
+<p align="center">
   <a href="https://www.youtube.com/watch?v=hPjaxXfIJik" target="_blank" style="color: #8a134d;">watch sad beth</a>
-
+<p align="center">
   <a href="https://soundcloud.com/flintheartbabi/thoroughbred" target="_blank" style="color: #8a134d;">white pony demo</a>
-  
+  <p align="center">
   <a href="https://discord.gg/9X7jZrQ82D" target="_blank" style="color: #8a134d;">discord server</a>
 
   <details>
   <summary>art</summary>
   <p>real</p>
   <ul>
-    <li>![kidd icarus new art](https://github.com/user-attachments/assets/c06f90f9-f2e8-4430-a3db-23dd32f6be3a)
+    <li>[kidd icarus new art](https://github.com/user-attachments/assets/c06f90f9-f2e8-4430-a3db-23dd32f6be3a)
 </li>
     <li>Item 2</li>
   </ul>
