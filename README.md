@@ -32,7 +32,7 @@
 
 <p align="center">
   <details>
-    <summary style="cursor: pointer; font-weight: bold; color: #8a134d; text-align: center;">art</summary>
+    <summary style="cursor: pointer; font-weight: bold; color: #000000; text-align: center;">art</summary>
     <div align="center">
       <p>real</p>
       <ul style="list-style: none; padding: 0;">
