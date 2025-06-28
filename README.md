@@ -29,23 +29,3 @@
   <a href="https://soundcloud.com/flintheartbabi/thoroughbred" target="_blank" style="color: #8a134d;">white pony demo</a>
   <p align="center">
   <a href="https://discord.gg/9X7jZrQ82D" target="_blank" style="color: #8a134d;">discord server</a>
-
-<p align="center">
-  <details>
-    <summary style="cursor: pointer; font-weight: bold; color: #000000; text-align: center;">art</summary>
-    <div align="center">
-      <p>kidd icarus</p>
-      <ul style="list-style: none; padding: 0;">
-        <li>
-          <a href="https://github.com/user-attachments/assets/c06f90f9-f2e8-4430-a3db-23dd32f6be3a" target="_blank">
-            <img src="https://github.com/user-attachments/assets/c06f90f9-f2e8-4430-a3db-23dd32f6be3a" alt="Kidd Icarus New Art" width="200" style="margin-top: 10px;">
-          </a>
-        </li>
-        <li>
-      <p>bye myself</p>
-          <img src="https://github.com/user-attachments/assets/952bd4a8-0165-4d45-9f4d-be6d221cbfb0" alt="Item 2" width="200" style="margin-top: 10px;">
-        </li>
-      </ul>
-    </div>
-  </details>
-</p>
