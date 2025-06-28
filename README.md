@@ -34,7 +34,7 @@
   <details>
     <summary style="cursor: pointer; font-weight: bold; color: #000000; text-align: center;">art</summary>
     <div align="center">
-      <p>real</p>
+      <p>kidd icarus</p>
       <ul style="list-style: none; padding: 0;">
         <li>
           <a href="https://github.com/user-attachments/assets/c06f90f9-f2e8-4430-a3db-23dd32f6be3a" target="_blank">
@@ -42,6 +42,7 @@
           </a>
         </li>
         <li>
+      <p>bye myself</p>
           <img src="https://github.com/user-attachments/assets/952bd4a8-0165-4d45-9f4d-be6d221cbfb0" alt="Item 2" width="200" style="margin-top: 10px;">
         </li>
       </ul>
