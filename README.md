@@ -29,3 +29,7 @@
   <a href="https://soundcloud.com/flintheartbabi/thoroughbred" target="_blank" style="color: #8a134d;">white pony demo</a>
   <p align="center">
   <a href="https://discord.gg/9X7jZrQ82D" target="_blank" style="color: #8a134d;">discord server</a>
+
+
+https://github.com/user-attachments/assets/cb58eabf-d6fa-4d73-b767-40355d9f128e
+
